@@ -1,6 +1,5 @@
 ![MasterHead](https://pbs.twimg.com/ext_tw_video_thumb/1603005989346844673/pu/img/Aqy4T0l8ve2sQ-Rs.jpg:large)
 <h1 align="center">Hi 👋, I'm Andrei-Constantin Chirita</h1>
-<h3 align="center">A passionate developer from Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/andrewkhirita" target="blank"><img src="https://img.shields.io/twitter/follow/andrewkhirita?logo=twitter&style=for-the-badge" alt="andrewkhirita" /></a> </p>
